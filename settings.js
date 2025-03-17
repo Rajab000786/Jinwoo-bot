@@ -1,7 +1,7 @@
 /*
-  project_name : jinwoo bot
+  project_name : gm shah
   Version : 2.4.0
-  Owner : Malvin King 
+  Owner : Murtaza shah 
   Clone if you can😪
 
 
@@ -25,19 +25,19 @@ global.botname = process.env.BOT_NAME || 'ᴊɪɴᴡᴏᴏ-ʙᴏᴛ'
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '263714757857' 
+global.ownernumber = process.env.OWNER_NUMBER || '923220023456' 
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Malvin King' 
+global.ownername = process.env.OWNER_NAME || 'MURTAZA SHAH' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "JINWOO" 
+global.packname = process.env.STICKER_PACK_NAME || "03030043678" 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "SUNG" 
+global.author = process.env.STICKER_AUTHOR_NAME || "SHAH" 
 
 //----------------------[ TIMEZONE ]--------------------//
 
